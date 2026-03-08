@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418261323489",
+    "project_id": "ancrage-avec-firebase",
+    "storage_bucket": "ancrage-avec-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418261323489:android:024db31d52941aeb8771a0",
+        "android_client_info": {
+          "package_name": "com.example.ancrage_avec_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hLBMKsB7-wWzi7BEWdnmJGUPUZQsxXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
