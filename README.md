@@ -56,7 +56,7 @@
 
 Les retours sont effectués à l'aide de la touche retour triangle (fait sur Emulateur PIXEL 5 pour raisons techniques)  
 
-
+---
 
 ## DATA
 La DB est conçue en json via Firebase, dans une Realtime database.
